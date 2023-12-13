@@ -1,6 +1,7 @@
 # PokemonApp
 
-Web Api Built to learn .Net Framework
+Minha primeira Web Api de Pokemon criada para aprender .Net
 
-
-![Uploading Vídeo sem título ‐ Feito com o Clipchamp.gif…]()
+<p align="center">
+  <img width="470" src="https://github.com/ThArthur/PokemonApp/blob/master/Gif.gif"/>
+</p>
